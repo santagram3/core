@@ -8,6 +8,7 @@ import com.spring.core.chap01_2.*;
 // Bean Factory // 콩 공장 // 하나하나 콩들을 모아둔 공장
 // Bean Factory Spring Container
 public class HotelManger {
+    // 여기 밑에있는애들 다 빈임
 
     // 쉐프 객체를 생성하여 리턴하는 메서드
     public Chef chef(){
